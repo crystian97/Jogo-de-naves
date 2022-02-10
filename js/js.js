@@ -37,6 +37,7 @@ function start() {
   jogo.timer = setInterval(loop, 30);
 
   function loop() {
+    colisao();
     movefundo();
     movejogador();
 
@@ -128,6 +129,13 @@ function start() {
                      }
     } // Fecha executaDisparo()
   } // Fecha disparo()
+  function colisao() {
+    var colisao1 = ($("#jogador").collision($("#inimigo1")));
+    // jogador com o inimigo1
+  
+    console.log(colisao1);
+  
+  } //Fim da função colisao()
   //Função que movimenta o fundo do jogo
 
   function movefundo() {
