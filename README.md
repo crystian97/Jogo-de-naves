@@ -1,5 +1,5 @@
 
-![img](imgs\gameplay.gif)
+![img](./imgs/gameplay.gif)
 
 # Resgate ( meu primeiro jogo em javascript)
 <!---ts--->
