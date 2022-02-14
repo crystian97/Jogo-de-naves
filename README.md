@@ -3,7 +3,7 @@
 
 # Resgate ( meu primeiro jogo em javascript)
 <!---ts--->
-##Sobre o Projeto
+## Sobre o Projeto
 * [Introdução](##Introdução)
 * [Tecnologias](##Tecnologias)
 * [Instalação](##Instalação)
