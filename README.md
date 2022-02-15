@@ -38,9 +38,9 @@ $ open index.html
 Se divirta!
 ## Como Jogar
 #### Regras
-* O Jogo tem como objetivo salvar o número máximo de prisioneiros possível destruindo os inimigos
+* O Jogo tem como objetivo salvar o número máximo de prisioneiros possíveis destruindo os inimigos
 * O jogador deve controlar o helicopter com as setas do teclado W,(Move pra cima) A(Move pra baixo),  D(atira)
-* Para resgatar os prisioneiros o jogador começa com  3 energias, cada vvez que ele colide com um inimigo, ele perde uma energia
+* Para resgatar os prisioneiros o jogador começa com  3 energias, cada vez que ele colide com um inimigo, ele perde uma energia
 * Se o jogador perder todas as energias, ele perde o jogo
 * Se um Prisioneiro for destruido, ele não será mais resgatado e a pontuação de prisioneiros perdidos será aumentada
 * É possivel reiniciar o jogo ao perder todas as energias clicando em "Tenatr novamente"
